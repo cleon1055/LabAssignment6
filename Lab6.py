@@ -15,3 +15,26 @@ We iterate over using a loop three times and print the results to the
 user. As an example "Plum Cherries"
 
 """
+"""
+                            Pseudocode
+
+import random
+num = generate random number
+
+If the number is > 15, 
+    then the results will be "Cherries"
+otherwise if the number > 10, 
+    then the result will be "Orange" 
+otherwise if the number > 5, 
+    then the result will be "Plum"
+otherwise if the number > 2, 
+    then the result will be "Melon"
+otherwise if the number > 1, 
+    then the resukr will be "Bell"
+otherwise, 
+    then the result will be "Bar"
+
+loop three times
+    print the output (fruit) to the user
+
+"""
